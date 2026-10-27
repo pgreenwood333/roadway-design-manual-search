@@ -1,0 +1,13 @@
+# Never published: manuals, anything built from them, models, secrets, logs
+*.pdf
+index/
+repaired/
+model_cache/
+.venv/
+__pycache__/
+*.pyc
+env
+.env*
+*.log
+.DS_Store
+._*
